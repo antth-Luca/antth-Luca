@@ -1,4 +1,4 @@
-### Olá! Eu sou Luca Anthony!
+### Olá! Eu sou Luca Anthony
 
 - 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas
 
