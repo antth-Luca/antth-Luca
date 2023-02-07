@@ -1,6 +1,6 @@
 ### Olá! Eu sou Luca Anthony
 
-- 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas
+- 🌱 Estou cursando Técnico em Desenvolvimento de Sistemas no IFPR-Campus Avançado de Astorga
 
 
 
