@@ -28,3 +28,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{antth-Luca}/count.svg" /></p> 
 <br>
 </div>
+
+![snake gif](https://github.com/antth-Luca/antth-Luca/blob/output/github-contribution-grid-snake.svg)
