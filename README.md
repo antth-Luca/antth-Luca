@@ -29,4 +29,5 @@
 <br>
 </div>
 
-![snake gif](https://github.com/antth-Luca/antth-Luca/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/antth-Luca/antth-Luca/blob/main/snake.svg)
+
