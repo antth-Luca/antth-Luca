@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there! 👋
+### Meu nome é Luca Anthony...
 
-<!--
-**antth-Luca/antth-Luca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦗🖖 Eu sou um pequeno gafanhoto!
+- 🔭 Atualmente, estou trabalhando em alguns projetos: uma rede social política, um jogo simples e um sist. gerenciador de vendas e clientes que envia mensagens de orçamento e cobrança automaticamente;
+- 🌱 Atualmente, estou aprendendo Angular e Spring Boot.
+<br>
 
-Here are some ideas to get you started:
+- Minhas qualidades:
+  - ⚙️ Sou criativo para encontrar soluções;
+  - 💡 Sou imaginativo para elementos visuais e roteiros;
+  - 🧠 Boa lógica;
+  - 👀 Sou observador e detalhista;
+  - 🧹 Sou organizado e amante de Clean Code;
+  - 📖 Tenho muita fome de aprender coisas novas;
+  - 🤯 Aprendo rápido;
+  - 💪 Não tenho medo do processo, estou continuamente estudando e evoluindo.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Algumas tecnologias que uso:
+  - 🖥️ Front-end:
+    - Kit básico: HTML5 + CSS3;
+    - Bootstrap 5;
+    - Angular.
+  - 🛠️ Back-end:
+    - Django 5;
+    - Spring Boot.
+  - 💾 Banco de dados:
+    - Cypher - Neo4j;
+    - SQL.
+  - 🎮 Gamedev:
+    - Godot 4;
+    - Blender básico.
+  - 📝 Linguagens:
+    - Python 3;
+    - JavaScript;
+    - Java.
