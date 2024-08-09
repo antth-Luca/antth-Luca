@@ -35,3 +35,6 @@
     - Python 3;
     - JavaScript;
     - Java.
+<br>
+
+Saiba ainda mais [sobre mim](https://antth-luca.github.io/)!
