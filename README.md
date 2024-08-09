@@ -38,3 +38,6 @@
 <br>
 
 Saiba ainda mais [sobre mim](https://antth-luca.github.io/)!
+<br>
+
+![snake gif](https://github.com/antth-Luca/antth-Luca/blob/output/github-contribution-grid-snake.gif)
