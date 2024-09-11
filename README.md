@@ -2,8 +2,7 @@
 ### Meu nome é Luca Anthony...
 
 - 🦗🖖 Eu sou um pequeno gafanhoto!
-- 🔭 Atualmente, estou trabalhando em alguns projetos: uma rede social política, um jogo simples e um sist. gerenciador de vendas e clientes que envia mensagens de orçamento e cobrança automaticamente;
-- 🌱 Atualmente, estou aprendendo Angular e Spring Boot.
+- 🔭 Atualmente, estou trabalhando em alguns projetos: uma rede social política (usando Spring Boot, Angular e Neo4j) e um jogo simples;
 <br>
 
 - Minhas qualidades:
@@ -19,20 +18,21 @@
 
 - Algumas tecnologias que uso:
   - 🖥️ Front-end:
-    - Kit básico: HTML5 + CSS3;
-    - Bootstrap 5;
+    - Kit básico: HTML + CSS;
+    - Bootstrap;
     - Angular.
   - 🛠️ Back-end:
-    - Django 5;
+    - Django;
     - Spring Boot.
   - 💾 Banco de dados:
     - Cypher - Neo4j;
-    - SQL.
+    - SQL (MySQL Workbench, PostgreSQL);
+    - SQLite.
   - 🎮 Gamedev:
-    - Godot 4;
+    - Godot;
     - Blender básico.
   - 📝 Linguagens:
-    - Python 3;
+    - Python;
     - JavaScript;
     - Java.
 <br>
