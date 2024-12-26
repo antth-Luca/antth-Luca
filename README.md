@@ -2,7 +2,10 @@
 ### Meu nome é Luca Anthony...
 
 - 🦗🖖 Eu sou um pequeno gafanhoto!
-- 🔭 Atualmente, estou trabalhando em alguns projetos: uma rede social política (usando Spring Boot, Angular e Neo4j) e um jogo simples;
+- 🔭 Atualmente, estou trabalhando em alguns projetos:
+    - Um sistema (SaaS) de vendas e gerenciamento para pequenos negócios;
+    - Uma rede social política (usando Spring Boot, Angular e Neo4j);
+    - Mods para Minecraft.
 <br>
 
 - Minhas qualidades:
@@ -29,6 +32,7 @@
     - SQL (MySQL Workbench, PostgreSQL);
     - SQLite.
   - 🎮 Gamedev:
+    - Forge;
     - Godot;
     - Blender básico.
   - 📝 Linguagens:
