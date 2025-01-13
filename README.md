@@ -33,6 +33,7 @@
     - SQLite.
   - 🎮 Gamedev:
     - Forge;
+    - NeoForge;
     - Godot;
     - Blender básico.
   - 📝 Linguagens:
