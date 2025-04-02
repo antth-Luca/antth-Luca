@@ -3,9 +3,9 @@
 
 - 🦗🖖 Eu sou um pequeno gafanhoto!
 - 🔭 Atualmente, estou trabalhando em alguns projetos:
-    - Um sistema (SaaS) de vendas e gerenciamento para pequenos negócios;
+    - Um sistema (WEB) de vendas e gerenciamento para pequenos negócios;
     - Uma rede social política (usando Spring Boot, Angular e Neo4j);
-    - Mods para Minecraft.
+    - Jogo top-down de sobrevivência com rica história na Godot.
 <br>
 
 - Minhas qualidades:
@@ -13,7 +13,7 @@
   - 💡 Sou imaginativo para elementos visuais e roteiros;
   - 🧠 Boa lógica;
   - 👀 Sou observador e detalhista;
-  - 🧹 Sou organizado e amante de Clean Code;
+  - 🧹 Sou organizado;
   - 📖 Tenho muita fome de aprender coisas novas;
   - 🤯 Aprendo rápido;
   - 💪 Não tenho medo do processo, estou continuamente estudando e evoluindo.
