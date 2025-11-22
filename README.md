@@ -4,9 +4,9 @@
 - 🎓 Sou Técnico em Desenvolvimento de Sistema pelo Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR) - Campus Astorga.
 - 🦗🖖 Eu sou um pequeno gafanhoto!
 - 🔭 Atualmente, estou trabalhando em alguns projetos:
+    - Jogo 2D: "Celestia: Sobrevivendo às estrelas" - [Veja aqui!](https://github.com/antth-Luca/godot-Celestia).
     - Um sistema (WEB) de vendas e gerenciamento para pequenos negócios;
-    - Uma rede social política (usando Spring Boot, Angular e Neo4j);
-    - Jogo top-down de sobrevivência com rica história na Godot.
+    - Uma rede social política (usando Spring Boot, Angular e Neo4j).
 
 ---
 <div align="center" style="display: inline_block">
