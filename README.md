@@ -1,20 +1,19 @@
 ## Hi there! 👋
 ### Meu nome é Luca Anthony...
 
-- 🎓 Sou Técnico em Desenvolvimento de Sistema pelo Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR) - Campus Astorga.
-- 🦗🖖 Eu sou um pequeno gafanhoto!
-- 🔭 Atualmente, estou trabalhando em alguns projetos:
-    - Jogo 2D: "Celestia: Sobrevivendo às estrelas" - [Veja aqui!](https://github.com/antth-Luca/godot-Celestia).
-    - Um sistema (WEB) de vendas e gerenciamento para pequenos negócios;
-    - Uma rede social política (usando Spring Boot, Angular e Neo4j).
+- 🎓 Formado em Técnico em Desenvolvimento de Sistema pelo Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR) - Campus Astorga;
+- 🦗 Sou um pequeno gafanhoto! (Guanabara reference 🖖);
+- 💻 Gestor de TIC (Tecnologia da Informação e Comunicação) no Hospital Regional Cristo Rei de Astorga;
+- 🔭 Sempre em algum projeto, seja web front ou back, IA ou até mod NeoForge, gamedev ou para RPG de mesa (sim, gosto um pouco de jogos).
+
+#### ...assino meus códigos como AntthLuca!
 
 ---
 <div align="center" style="display: inline_block">
     <a href="https://github.com/antth-Luca">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antth-Luca&layout=compact&langs_count=7&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antth-Luca&layout=compact&langs_count=8&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block">
-    <img align="center" alt="antthLuca-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
     <img align="center" alt="antthLuca-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
     <img align="center" alt="antthLuca-springboot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
     <img align="center" alt="antthLuca-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
@@ -23,8 +22,6 @@
     <img align="center" alt="antthLuca-mondodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
     <img align="center" alt="antthLuca-neo4j" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"/>
     <img align="center" alt="antthLuca-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-    <img align="center" alt="antthLuca-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img align="center" alt="antthLuca-sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
     <img align="center" alt="antthLuca-godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
 </div>
 
